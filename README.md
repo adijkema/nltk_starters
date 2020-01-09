@@ -1,4 +1,4 @@
-# nltk_starters
+# NLTK for starters
 Some basic use of the Natural Language Processing Toolkit in Python
 
 ## Purpose: 
