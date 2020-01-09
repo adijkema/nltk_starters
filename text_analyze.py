@@ -8,7 +8,7 @@
 # nltk needs to download wordbanks before using some functions. 
 #   
 # Goal: In several steps convert a text string into a grammatical tagged word list
-# For use in python 2, add; 
+# For use in python 2, ()nltk works for python >= 2.7) add; 
 #         from __future__ import print_function
 # Python version: >= python 3 
 # ----------------------------------------------------------------------------------------
